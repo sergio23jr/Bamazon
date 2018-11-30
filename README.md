@@ -22,10 +22,11 @@ SECRET_KEY = <Your mysql password>
 ```
 
 ### Starting off
+
 1. This is the first screen when you first start up the app  
- ![Demo](https://github.com/sergio23jr/Bamazon/blob/master/images/StartUp.png)
+![Demo](https://github.com/sergio23jr/Bamazon/blob/master/images/StartUp.png)
  
-1a. rom the main menu if you select *Buy Items* the following screen will show up.
+1a. From the main menu if you select *Buy Items* the following screen will show up.
 ![Demo](https://github.com/sergio23jr/Bamazon/blob/master/images/viewProducts.png)
  
 On this page the app will show you the items available for purchase, these items include
@@ -42,7 +43,7 @@ On this page the app will show you the items available for purchase, these items
 
 If you select a quantity larger than what is in stock bamazon will notify you that the request cannot be made and return you to the Main menu.
 
-![Demo]()
+![Demo](https://github.com/sergio23jr/Bamazon/blob/master/images/invalid_stock_amount.png)
   
 Once you have selected your amount the app will display to you the product name as well as the amount and that it has added it to your cart. The app will then return you back to the Main menu.
 
@@ -57,9 +58,9 @@ From here you have the option to either
 
 3. if you wish to view the different departments selecting the *View Department* will display all department from Bamazon
 
-1[departments](https://github.com/sergio23jr/Bamazon/blob/master/images/departments.png)
+![departments](https://github.com/sergio23jr/Bamazon/blob/master/images/departments.png)
 
 3a. Selecting any option will then show you all the products in stock in that department.
-![department products]()
+![department products](https://github.com/sergio23jr/Bamazon/blob/master/images/department_items.png)
 
-4. Last bbut not least selecting the *Leave Bamazon* option will end the session.
+4. Last but not least selecting the *Leave Bamazon* option will end the session.
